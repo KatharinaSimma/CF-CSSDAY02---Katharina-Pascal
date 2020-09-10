@@ -4,4 +4,17 @@ img {
 #face {
   width: 400px;
 }
+#eyes2{
+position: absolute;
+width: 200px;
+right: 770px;
+bottom: 270px;
+
+}
+#hair1{
+	position: absolute;
+	width: 350px;
+	right: 710px;
+	bottom: 240px;
+}
 
