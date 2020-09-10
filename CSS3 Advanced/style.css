@@ -1,17 +1,48 @@
 header{
 	text-align: center;
 
+
 }
 nav{
 	text-align: center;
+	background-color: lightgray;
+	margin: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+
 
 }
 a{
 	padding-right: 5px;
 }
-#Feature{
+
+p{
 	text-align: center;
 }
-.Column{
-	width: 33vw;
+#Feature{
+	text-align: center;
+	background-color: lightgray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;
 }
+.column{
+	width: 33.33%;
+	float: left;
+	background-color: lightgray;
+	padding-bottom: 10px;
+	border: 3px solid black;
+}
+
+.row{
+	margin : 10px;
+	padding-top:  10px;
+}
+
+footer{
+	float: left;
+	background-color: lightgray;
+	margin: 10px;
+	padding-bottom: 5px;
+}
+
