@@ -26,23 +26,24 @@ p{
 	padding-bottom: 10px;
 	margin: 10px;
 }
-.column{
-	width: 33.33%;
-	float: left;
-	background-color: lightgray;
-	padding-bottom: 10px;
-	border: 3px solid black;
-}
 
 .row{
-	margin : 10px;
-	padding-top:  10px;
+	
+}
+.column{
+
+	width: 33.33%
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+	background-color: lightgray;
+	
 }
 
 footer{
-	float: left;
+
 	background-color: lightgray;
+	
 	margin: 10px;
-	padding-bottom: 5px;
 }
 
